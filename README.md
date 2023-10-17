@@ -1,19 +1,6 @@
-# Inhouse Competition - JIIT Optica Student Chapter
-## Topic-College Realted
-
-## Team-code stomp
-
-
-### [Problem Statement]()- Many time student have visited many websites / blogs for find where is Job opening is there or not, Many cases they miss the opportunity. In this modern world bombard with information make students confused, one mentor in form of senior can definitely help how to web dev, Android dev ,AWS and many more questions 
-
-
-
-
 ## INTRODUCTION
 
 The Placement Management System is a web application for the training and  placement department of our college. This system can be accessed throughout the  organization with proper login credentials. Students will be able to upload their  personal and educational information which will be managed efficiently by the  system. It intends to provide a fast access to the placement procedures and related  activities and ensures to maintain the details of the student secure. The key feature of  this project is that it is a onetime registration enabled system. This project will aid  colleges to practice full IT deployment.
-
-Website- https://code-placement.000webhostapp.com/index.php
 
 
 ## Features
@@ -119,35 +106,4 @@ ii> git clone https://github.com/atinder11/Placement-Portal
 
 9. Browse the file in directory [placement-portal/database/db1.sql].
 
-10. Open any browser and type http://localhost/placement-portal.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Team Member
-
-- [Atinder Kumar](https://github.com/atinder11)
-
-- [Suyash Rawat](https://github.com/SuyashRawat)
-
-- [Jatin Tagore](https://github.com/jazz1706)
-
-
+10. Open any browser and type http://localhost/placement-portal
