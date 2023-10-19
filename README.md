@@ -1,17 +1,17 @@
 ## INTRODUCTION
 
-The Placement Management System is a web application for the training and  placement department of our college. This system can be accessed throughout the  organization with proper login credentials. Students will be able to upload their  personal and educational information which will be managed efficiently by the  system. It intends to provide a fast access to the placement procedures and related  activities and ensures to maintain the details of the student secure. The key feature of  this project is that it is a onetime registration enabled system. This project will aid  colleges to practice full IT deployment.
+The Placement Management System is a web application for the training and  placement department of our college. This system can be accessed throughout the  organization with proper login credentials. Students will be able to upload their  personal and educational information which will be managed efficiently by the  system. It intends to provide fast access to the placement procedures and related  activities and ensures to maintenance of the details of student security. The key feature of  this project is that it is a one-time registration-enabled system. This project will aid  colleges in practising full IT deployment.
 
 
 ## Features
-- Separate Login Page For Admin, Coordinater and Student
+- Separate Login Page For Admin, Coordinator and Student
 - Interactive Dashboard
-- Coordinater can Update the drive and check the applied and modify accordingly
-- Admin can Approve and reject request of All type of registration 
-- Admin can post notice to all students and coordinater separately
+- The coordinator can Update the drive check the applied and modify it accordingly
+- Admin can Approve and reject requests for All types of registration 
+- Admin can post a notice to all students and coordinators separately
 - Upload technical papers
 - View Student and Company Profile
-- Interactive Contact us Page
+- Interactive Contact Us Page
 
 
 
@@ -27,42 +27,39 @@ The Placement Management System is a web application for the training and  place
 
 # PROJECT SNAPSHOTS
 
-- Home Page
-
-
-
-
+**- Home Page**
 ![1](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/e6e0dc3f-7fce-49bc-b5af-d4f1253dc55d)
 
-- Registration Page For Students and Companies
 
 
-![Screenshot 2023-01-13 010755](https://user-images.githubusercontent.com/111070211/212170065-d00e3794-2f7c-449f-b18c-6767fc73a37e.jpg)
+**- Registration Page For Students**
+![2](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/12678d51-b55b-4b07-a296-0d15349bf070)
+
+**- Login Page**
 
  
- - Login Page
- 
-
-![Screenshot 2023-01-13 013254](https://user-images.githubusercontent.com/111070211/212169229-27f3c260-ac8f-480d-a13c-178a2ded1dde.jpg)
-
-Admin Login
-
-![image](https://user-images.githubusercontent.com/111070211/212169400-2040c5f6-e110-42b6-bd27-8b7b18e06743.png)
-
-Admin dashboard
+**- admin login**
+![7](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/d1b91bef-06a9-49ab-9551-980ff32e4df0)
 
 
+**- admin dashboard**
+![8](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/4798d9f5-3936-4027-93d1-93de37600383)
 
+  
+![3](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/7b62386f-485a-43f8-b63c-4431a97ef79c)
 
-![Screenshot 2023-01-13 014007](https://user-images.githubusercontent.com/111070211/212170495-0bb04ef3-83bb-459b-ba17-71b4256f396d.jpg)
+- Registering and login page for Students and Placement coordinators
 
-coordinator dashboard
+![4](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/37a3e373-eeaf-4da7-b65d-eb9a452505a3)
 
-![Screenshot 2023-01-13 010827](https://user-images.githubusercontent.com/111070211/212170601-a1fe5719-50fa-4275-b4d5-c27d1ca3fe57.jpg)
+- Student dashboard
+
+- coordinator dashboard
 
 - contact us
 
-![image](https://user-images.githubusercontent.com/111070211/212170893-dbb903ec-b720-4331-9d6c-22abe6107f2a.png)
+![contact_us](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/5c4619b3-5032-4db1-840a-f2af14a414cd)
+
 
 ![image](https://user-images.githubusercontent.com/111070211/212171069-884f15b9-13a7-4d74-b7d4-0d46d178b359.png)
 
