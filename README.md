@@ -60,9 +60,7 @@ The Placement Management System is a web application for the training and  place
 - contact us
 
 ![contact_us](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/5c4619b3-5032-4db1-840a-f2af14a414cd)
-
-
-![image](https://user-images.githubusercontent.com/111070211/212171069-884f15b9-13a7-4d74-b7d4-0d46d178b359.png)
+![c_us](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/19e7384d-7cb9-4dea-8358-30708e4c4d54)
 
 
 <br>
@@ -72,13 +70,13 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/atinder11/Placement-Portal).
+3. Download project from github(https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri).
 
 OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone https://github.com/atinder11/Placement-Portal
+ii> git clone https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri
 
 4. Extract files in C:\xampp\htdocs.
 
