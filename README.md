@@ -32,7 +32,7 @@ The Placement Management System is a web application for the training and  place
 
 
 
-![alt text](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/imgdb/1.jpg?raw=true)
+![alt text](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/blob/main/imgdb/1.jpg?raw=true)
 
 ![Screenshot 2023-01-13 010557](https://user-images.githubusercontent.com/111070211/212168678-52429e68-17a2-4150-9643-5706f9eadea5.jpg)
 
