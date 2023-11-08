@@ -35,7 +35,7 @@ The Placement Management System is a web application for the training and  place
 ![7](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/d1b91bef-06a9-49ab-9551-980ff32e4df0)
 
 
-
+   
 **- Registering and login page for Students and Placement coordinators**
 ![3](https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri/assets/80118923/7b62386f-485a-43f8-b63c-4431a97ef79c)
 
@@ -87,4 +87,4 @@ ii> git clone https://github.com/DivasGupta7/Training-Placement-Cell_BIT-Sindri
 
 9. Browse the file in directory [placement-portal/database/db1.sql].
 
-10. Open any browser and type http://localhost/placement-portal.
+10. Open any browser and type http://localhost/placement_portal.
